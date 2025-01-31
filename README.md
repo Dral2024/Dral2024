@@ -8,7 +8,7 @@
      🌾Grassland restoration & agroecology
      🚀Agile project management & scientific collaboration 
 - ✨ I’m currently learning Git
-- 💞️ I’m looking to collaborate on projects related to the power of microbes to get into One health world
+- 💞️ I’m looking to collaborate on projects exploring the power of microbes in the context of One Health.
 - 📫 How to reach me andradrediana@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: many years of experience as postdoc, so considering leaving academia! 
