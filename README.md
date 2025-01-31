@@ -1,5 +1,5 @@
 
-   👋 Hi, I’m @Dral2024, a Molecular and enviromental Microbiologist (PhD)
+   👋 Hi, I’m @Dral2024, a Molecular and enviromental Microbiologist (PhD).
       My expertise lies in microbiome, soil nutrient cycling, DNA sequencing data analysis, endophytic and mycorrhizal fungi. I have experience in field sampling, lab work, and statistical analysis using R.
 - 🔬 Research & Interests
      🌱🔍Molecular diagnostics for plant health & soil microbiome diversity 
