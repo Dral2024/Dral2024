@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on projects related to the power of microbes to get into One health world
 - 📫 How to reach me andradrediana@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: many years of experience as postdoc, so considering leave academia! 
+- ⚡ Fun fact: many years of experience as postdoc, so considering leaving academia! 
 
 <!---
 Dral2024/Dral2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
